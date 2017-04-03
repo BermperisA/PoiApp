@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">POInt yourself</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_login_activity">Login</string>
+    <string name="button_hello">Say Hello</string>
+    <string name="edit_name">Please type your name</string>
+    <string name="title_activity_validation">ValidationActivity</string>
+    <string name="title_activity_validate">ValidateActivity</string>
+    <string name="title_activity_edit_text_validator">EditTextValidator</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="spinner_title">Select Category</string>
+    <string name="username_password"> Welcome %1$s!</string>
+
+    <string-array name="type_arrays">
+        <item>Drink</item>
+        <item>Cinema</item>
+        <item>Site seeing</item>
+        <item>Library</item>
+        <item>University</item>
+        <item>Fast Food Restaurant</item>
+        <item>Take Away Restaurant</item>
+        <item>Typical Restaurant</item>
+    </string-array>
+
+    <string name="title_activity_poi">Poi</string>
+    <string name="title_activity_sqlite">SQLiteActivity</string>
+    <string name="title_activity_gps_tracker">GpsTrackerActivity</string>
+    <string name="title_activity_check">CheckActivity</string>
+    <string name="title_activity_poi_card">PoiCard</string>
+    <string name="checkEntertainment">Entertainment</string>
+    <string name="checkDrink">Drink</string>
+    <string name="checkSite">Site Seeing</string>
+    <string name="checkCinema">Cinema</string>
+    <string name="checkEducation">Education</string>
+    <string name="checkLibrary">Library</string>
+    <string name="checkUniversity">University</string>
+    <string name="checkFood">Food</string>
+    <string name="checkFast">Fast Food Restaurant</string>
+    <string name="checkTake">Take Away Restaurant</string>
+    <string name="checkTypical">Typical Restaurant</string>
+    <string name="btn_display">Ok</string>
+     <string name="btnfilter"></string>
+</resources>
